@@ -1,4 +1,5 @@
 # E-commerce-Customer-Segmentation-and-Prediction 
+Drive Link for original Dataset : https://drive.google.com/file/d/19VGX8gQw3sun0YOTj_g4IGwNs0jbsK-I/view?usp=sharing
 This project aims to enhance marketing strategies and customer retention for an e-commerce company by gaining a deeper understanding of their customer base based on their purchasing patter. By leveraging machine learning, the project seeks to segment customers and predict future purchasing behavior. 
 
 Project Outline : How I approached the problem 
