@@ -1,0 +1,13 @@
+* please use Jupiter Dark theme selecting from settings., content section might not be visible links because of label colors.
+
+
+
+•InvoiceNo: Unique identifier for each transaction
+•stockCode: Product code
+•Description: Product name
+•Quantity: Number of items purchased
+•InvoiceDate: Date and time of the transaction
+•UnitPrice: Price per unit of the product
+•CustomerID: Unique identifier for each customer
+•Country: Country where the transaction occurred
+'c'InvoiceID : cancelled orders
